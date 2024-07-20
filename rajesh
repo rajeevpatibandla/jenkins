@@ -14,4 +14,4 @@ ZeroDivisionError: integer division or modulo by zero
 Traceback (most recent call last):
   File "<pyshell#2>", line 1, in <module>
     8 % 0
-ZeroDivisionError: integer division or modulo by zero
+
